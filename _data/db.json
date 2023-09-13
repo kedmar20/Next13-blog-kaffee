@@ -1,0 +1,25 @@
+{
+   "kaffeeposts": [
+      {
+         "id": "1",
+         "title": "ARABIKA, und ROBUSTA",
+         "body": "Arabica enthält halb so viel Koffein wie Robusta. Der Arabica-Baum wird etwa 5 Meter und der Robusta-Baum bis zu 10 Meter hoch.",
+         "author": "John",
+         "user_email": ""
+      },
+      {
+         "id": "2",
+         "title": "Die Menge an Koffein im Kaffee hängt von seiner Sorte ab.",
+         "body": "Das meiste Koffein ist in Kaffee aus Hawaii enthalten – es sind 180 Milligramm pro 175-Milliliter-Tasse. Etwas weniger, 177 Milligramm, wird in Kaffee aus Guatemala und El Salvador enthalten sein. 160 Milligramm im Kaffee aus Costa Rica und Peru, 140 im brasilianischen Santos-Kaffee und im Kaffee aus Äthiopien.",
+         "author": "Maria",
+         "user_email": ""
+      },
+      {
+         "id": "3",
+         "title": "10 MINUTEN BIS ZUM KAFFEE-KICK",
+         "body": "Sobald wir den ersten Schluck Kaffee getrunken haben, dauert es nur 10 Minuten, bis das Koffein einsetzt. Nach etwas mehr als 10 Minuten erreicht die Koffeinkonzentration in unserem Blut die Hälfte der maximalen Konzentration, was ausreicht, um die Wirkung auf unseren Körper zu spüren. Die höchste Stufe ist nach 45 Minuten erreicht. Dann sind wir am energiegeladensten. Abhängig davon, wie schnell unser Körper die Droge bekämpfen kann, können wir die Wirkung von Koffein 3 bis 5 Stunden lang spüren!",
+         "author": "Steve",
+         "user_email": ""
+      }
+   ]
+}
